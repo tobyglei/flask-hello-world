@@ -1,7 +1,7 @@
-# Flask 在 [21云盒子](https://www.21yunbox.com/) 的示例
+# Deploy Flask App in China Using [21YuBox](https://www.21cloudbox.com/)
 
-这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Flask](https://github.com/pallets/flask) 示例。
+When Heroku / Digital Ocean / AWS / GPC don't work out-of-the-box for China, we create an addons solution that gives you an edge in China.
 
-## 部署
+You can read the full tutorial (with video screencast) at [https://www.21cloudbox.com/solutions/how-to-deploy-flask-project-in-production-server.html](https://www.21cloudbox.com/solutions/how-to-deploy-flask-project-in-production-server.html).
 
-详情看 [https://www.21yunbox.com/docs/#/deploy-flask-app](https://www.21yunbox.com/docs/#/deploy-flask-app)
+
